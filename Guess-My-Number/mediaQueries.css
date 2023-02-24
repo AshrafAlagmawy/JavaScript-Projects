@@ -1,0 +1,22 @@
+@media (max-width: 47rem) {
+  .left,
+  .right {
+    width: 42rem;
+  }
+  h1 {
+    font-size: 3.2rem;
+  }
+}
+@media (max-width: 39rem) {
+  html {
+    /* Font : 10 / 16 => 62.5% */
+    font-size: 52.5%;
+  }
+  h1 {
+    font-size: 3rem;
+  }
+  main {
+    flex-direction: column;
+    align-items: center;
+  }
+}
