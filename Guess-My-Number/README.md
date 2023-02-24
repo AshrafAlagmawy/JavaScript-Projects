@@ -1,3 +1,3 @@
-# Guess the Number using html, css, javaScript
+## Guess the Number using html, css, javaScript
 
-## Live Dimo : 
+### Live Dimo : 
