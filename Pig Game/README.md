@@ -1,3 +1,3 @@
 ## Pig Game
 
-### Live Dimo : https://piiig-game.netlify.app/
+### [Live Dimo](https://piiig-game.netlify.app/)
