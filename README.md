@@ -1,2 +1,3 @@
-# JavaScript-Projects
-This is a repo for javascript projects and always updated of projects .
+# `JavaScript Projects`
+
+### This repo contain projects that i have built using vanilla `JS`
